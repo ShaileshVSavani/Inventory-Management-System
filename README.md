@@ -33,7 +33,7 @@ You can view the live version of the app by visiting the following link:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/inventory-app.git
+git clone https://github.com/ShaileshVSavani/Inventory-Management-System.git
 ```
 
 ### 2. Navigate to the project directory
