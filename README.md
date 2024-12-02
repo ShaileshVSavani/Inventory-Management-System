@@ -24,7 +24,7 @@ This is a web-based **Inventory Management App** designed to help businesses eff
 
 You can view the live version of the app by visiting the following link:
 
-[Inventory Management App Live](https://your-deployment-link.com)
+[Inventory Management App Live](https://inventory-management-system-lemon.vercel.app/)
 
 
 ---
